@@ -2,6 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
+## setup enviroment 
+    DownLoad:-
+
+    1- Node JS
+    2- angular 8
+    3- visual studio code 
+    4- this Project :)
+
+
+ ## PROJECT SCREENSHOT 
+ <img src="screen.png">   
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
